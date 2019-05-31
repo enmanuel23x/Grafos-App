@@ -26,6 +26,6 @@ engines:
     encoding:  'utf8'
 #     start_tag: '[%'
 #     end_tag:   '%]'
-dwimmer:
-  json: './public/prueba.json'
+#dwimmer:
+ # json: './public/prueba.json'
 
