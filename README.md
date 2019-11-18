@@ -2,6 +2,9 @@
 ## Requires
 - Perl
 - Web browser
+# Screenshots
+<h4>Default</h4>
+<img src="img/grafos.png" width="280"/>
 ## Usage
 - Perl
 - JavaScript

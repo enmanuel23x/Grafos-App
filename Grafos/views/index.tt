@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body style="background: url('./images/bg.jpg');
+<body style="background-color: black;";
   background-size: 1360px 760px;">
   <div style="text-align:center;"><input id="rutacorta" class="in" size="80"/></div>
 <svg width="1200" height="500" id="net"></svg>
