@@ -1,10 +1,13 @@
-## Grafos-App
+#Grafos-App
+
 ## Requires
 - Perl
 - Web browser
-# Screenshots
+
+## Screenshots
 <h4>Default</h4>
 <img src="img/grafos.png" width="280"/>
+
 ## Usage
 - Perl
 - JavaScript
